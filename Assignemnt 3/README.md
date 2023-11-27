@@ -41,7 +41,8 @@ Java, Gosling, 1991
 * main.cpp: Main program file containing the implementation. 
 * languages.txt: Input file containing language data. 
 # Implementation Details #
-The program reads each line from languages.txt, extracts relevant information, creates a language object, and adds it to a vector. Finally, it prints the data in the specified format.
-
+* The program reads each line from languages.txt, extracts relevant information, creates a language object, and adds it to a vector. Finally, it prints the data in the specified format.
+* In this project, I have created reader function which performs file input.
+* The file writer function performs file input function.
 # Dependencies #
 * C++ compiler (e.g., g++) 
