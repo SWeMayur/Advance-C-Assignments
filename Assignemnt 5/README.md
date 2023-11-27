@@ -1,4 +1,4 @@
-﻿# Assignment 5 - Lambda Expression updating the minimum and maximum point from triangulation #
+﻿# Assignment 5 - Lambda Expression for updating the minimum and maximum point from triangulation #
 ## Overview ##
 * This assignment involves utilizing a lambda expression in the /src/BBox.cpp file to define a function named updateIfGreater updateIfSmaller. The lamdba expression used to get maximum and minimum point from triangulation which are furthur used to draw bounding box of geometry.
 
