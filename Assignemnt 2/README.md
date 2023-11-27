@@ -1,4 +1,4 @@
-﻿# Advance-C-Assignments #
+﻿# Advance C++: Assignment 2 #
 ## Overview ##
 * In this assignment, we need to create one function of type string.
 * This function should take argument of type string and return a string value.
