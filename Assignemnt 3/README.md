@@ -29,17 +29,17 @@ Java, Gosling, 1991
      * Triangulation.h 
      * Typedef.h
      * Triangle.h
-* src folder *
-     ** BBox.cpp **
-     ** Geometry.cpp **
-     ** Point3d.cpp **
-     ** Reader.cpp **
-     ** Triangle.cpp **
-     ** Triangulation.cpp **
-     ** Typedef.cpp **
-     ** Triangle.cpp **
-* main.cpp: Main program file containing the implementation. *
-* languages.txt: Input file containing language data. *
+* src folder 
+     * BBox.cpp 
+     * Geometry.cpp 
+     * Point3d.cpp 
+     * Reader.cpp 
+     * Triangle.cpp 
+     * Triangulation.cpp 
+     * Typedef.cpp 
+     * Triangle.cpp 
+* main.cpp: Main program file containing the implementation. 
+* languages.txt: Input file containing language data. 
 # Implementation Details #
 The program reads each line from languages.txt, extracts relevant information, creates a language object, and adds it to a vector. Finally, it prints the data in the specified format.
 
