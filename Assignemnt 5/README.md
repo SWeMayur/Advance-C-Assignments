@@ -8,7 +8,7 @@ Function File:
 
 ## Lambda Expression: ##
 
-Define a lambda expression named updateIfGreater and updateIfSmaller which takes two parameters of Point3D objects. The first one updates the maximum point to get maximum point from triangulation and second one updates the minimum point.
+Define a lambda expression named `updateIfGreater` and `updateIfSmaller` which takes two parameters of Point3D objects. The first one updates the maximum point to get maximum point from triangulation and second one updates the minimum point.
 
 ## Lambda Expression in Action: ##
 
