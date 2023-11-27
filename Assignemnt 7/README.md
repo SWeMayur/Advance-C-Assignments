@@ -6,7 +6,8 @@
 ### Function File: ###
 * Function Definition: /src/BBox.cpp
 * funtion: void BBox::calculateBBox(std::vector<Triangle> triangles)
-  ## Lambda Expression: ##
+* 
+## Lambda Expression: ##
 * Define a lambda expression named calculateCenter which calculates the center point of a geometry using max and min point.
 * It takes input as one point and return a center point.
 * The center point then stored in mCenter member variable.
