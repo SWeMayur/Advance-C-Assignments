@@ -20,15 +20,15 @@ C++, Stroustrup, 1979
 Java, Gosling, 1991
 
 ## Code Structure ##
-* header folder *
-     ** BBox.h **
-     ** Geometry.h **
-     ** Point3d.h **
-     ** Reader.h **
-     ** Triangle.h **
-     ** Triangulation.h **
-     ** Typedef.h **
-     ** Triangle.h **
+* header folder 
+     * BBox.h 
+     * Geometry.h 
+     * Point3d.h 
+     * Reader.h 
+     * Triangle.h 
+     * Triangulation.h 
+     * Typedef.h
+     * Triangle.h
 * src folder *
      ** BBox.cpp **
      ** Geometry.cpp **
