@@ -17,7 +17,7 @@
    ``` //calculate center point of the geometry using lambda function
    Point3D getCenter(0,0,0);
    auto calculateCenter = [getCenter = Point3D((mMin.x()+mMax.x())/2, (mMin.y()+mMax.y())/2, (mMin.z()+mMax.z())/2)] (Point3D p){return getCenter;};
-   mCenter = calculateCenter(getCenter); ```
+   mCenter = calculateCenter(getCenter); 
 
 
 
