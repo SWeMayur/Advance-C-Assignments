@@ -15,11 +15,12 @@ Define a lambda expression named updateIfGreater and updateIfSmaller which takes
 Call the lambda expression updateIfGreater and updateIfSmaller in the compareAndUpdate function in BBox.cpp file.
 
 ## Function implementation ## 
- //lambda function for updating maximum value
+
+     //lambda function for updating maximum value
      auto updateIfGreater = [](Point3D pointToCompare, Point3D& max) {
         if(pointToCompare.x()>max.x())
           max.setX(pointToCompare.x());
-
+          
         if(pointToCompare.y()>max.y())
           max.setY(pointToCompare.y());
 
