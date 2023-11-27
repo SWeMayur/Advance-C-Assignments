@@ -43,5 +43,5 @@ Java, Gosling, 1991
 # Implementation Details #
 The program reads each line from languages.txt, extracts relevant information, creates a language object, and adds it to a vector. Finally, it prints the data in the specified format.
 
-Dependencies
-* C++ compiler (e.g., g++) *
+# Dependencies #
+* C++ compiler (e.g., g++) 
