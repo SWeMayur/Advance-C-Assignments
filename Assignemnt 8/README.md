@@ -1,5 +1,5 @@
 ﻿# Assignment 8: Algorithms and Iterators Workshop #
-# Standard Template Library (STL) Algorithmic Solutions #
+## Standard Template Library (STL) Algorithmic Solutions ##
 ## This repository contains solutions that adhere to the following constraints: ##
 * Utilizes only Standard Template Library (STL) algorithms.
 * Incorporates lambda functions where appropriate.
