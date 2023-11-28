@@ -68,12 +68,9 @@ void BBox::compareAndUpdate(Point3D pointToCompare, Point3D& min, Point3D& max)
 
     // Update max values using lambda functions
     updateIfGreater(pointToCompare, max);
-    updateIfGreater(pointToCompare, max);
-    updateIfGreater(pointToCompare, max);
 
     // Update min values using lambda functions
     updateIfSmaller(pointToCompare, min);
-    updateIfSmaller(pointToCompare, min);
-    updateIfSmaller(pointToCompare, min);
+
 }
 
