@@ -37,9 +37,9 @@ void BBox::calculateBBox(std::vector<Triangle> triangles)
    }
    //calculate center point of the geometry
    mCenter = Point3D((mMin.x()+mMax.x())/2, (mMin.y()+mMax.y())/2, (mMin.z()+mMax.z())/2);
-  //  std::cout<<mMin.x()<<" "<<mMin.y()<<" "<<mMin.z()<<std::endl;
-  //  std::cout<<mMax.x()<<" "<<mMax.y()<<" "<<mMax.z()<<std::endl;
-  //  std::cout<<mCenter.x()<<" "<<mCenter.y()<<" "<<mCenter.z()<<std::endl;
+    std::cout<<mMin.x()<<" "<<mMin.y()<<" "<<mMin.z()<<std::endl;
+    std::cout<<mMax.x()<<" "<<mMax.y()<<" "<<mMax.z()<<std::endl;
+    std::cout<<mCenter.x()<<" "<<mCenter.y()<<" "<<mCenter.z()<<std::endl;
 }
 //compare function to compare the current point with the minimum and maximum points
 void BBox::compareAndUpdate(Point3D pointToCompare, Point3D& min, Point3D& max)
