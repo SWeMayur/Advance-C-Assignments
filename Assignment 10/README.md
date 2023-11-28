@@ -1,4 +1,4 @@
-# Assignment 9: Sequential containers part two
+# Assignment 10: Sequential containers part two
 Welcome to the deque-Based Sequential Containers project! This project focuses on utilizing deque as the primary sequential containers within the Standard Template Library (STL). The project follows guidelines that encourage the use of STL algorithms, lambda functions, and the avoidance of explicit loops (for, while, do/while) or recursion.
 
 ## Project Overview
